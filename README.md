@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   ## 🍵 About Me <br/>
   <br/>
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&pause=500&color=FFA8A8&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=70&lines=Hello!+I'm+TeaCat.+%2F+TeaT+or+TT+for+short.;I+aim+to+become+a+Full-stack+Engineer+who+is+thinking+about+the+user's+position." alt="Typing SVG" /></a>
+<a href="https://github.com/TeaT-Develop/TeaT-Develop"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&pause=500&color=FFA8A8&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=70&lines=Hello!+I'm+TeaCat.+%2F+TeaT+or+TT+for+short.;I+aim+to+become+a+Full-stack+Engineer+who+is+thinking+about+the+user's+position." alt="Typing SVG" /></a>
     </p>
     <br/>
     🔭 I'm studying Back-end from South Korea. So, taking a break from work these days. <br/> 
