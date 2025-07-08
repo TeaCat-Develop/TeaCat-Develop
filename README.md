@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div>
   <!--Body-->
   
-  ## 👀 About Me <br/>
+  ## 🍵 About Me <br/>
   #### Hello! I'm TeaCat. / TeaT or TT for short. <br/>
   #### :fire: I aim to  become a Full-stack Engineer  who is thinking about the user's position.. <br/>
   <br/>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   
   <br/>
   
-  ## 🧱 Tech Stack
+  ## ⚒️ Tech Stack
   ### Language
   <!--언어
   <!--Python
