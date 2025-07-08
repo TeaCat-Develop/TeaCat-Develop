@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <!--Header-->
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=color=timeAuto&height=300&section=header&text=Hello!%20(●'◡'●)-nl-Good%20to%20see%20you.&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=(●'◡'●)-nl-Good%20to%20see%20you.&fontSize=80" />
 </div>
 
 
@@ -27,16 +27,16 @@ Here are some ideas to get you started:
   <!--Body-->
   
   ## 🍵 About Me <br/>
-  #### Hello! I'm TeaCat. / TeaT or TT for short. <br/>
-  #### :fire: I aim to  become a Full-stack Engineer  who is thinking about the user's position.. <br/>
   <br/>
-  
+  <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&pause=500&color=FFA8A8&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=70&lines=Hello!+I'm+TeaCat.+%2F+TeaT+or+TT+for+short.;I+aim+to+become+a+Full-stack+Engineer+who+is+thinking+about+the+user's+position." alt="Typing SVG" /></a>
+    </p>
+    <br/>
     🔭 I'm studying Back-end from South Korea. So, taking a break from work these days. <br/> 
-    🌱 I’m currently participating in bootcamp.
-    📫 How to reach me: TeaCat0416@gmail.com
-    🫖 I love teatime, book and game.
+    🌱 I’m currently participating in bootcamp.   <br/>
+    📫 How to reach me: TeaCat0416@gmail.com   <br/>
+    🫖 I love teatime, book and game.   <br/>
     😺 So I named my cat 'HongCha'. -means blacktea in Korean-
-  
   <br/>
   
   ## ⚒️ Tech Stack
