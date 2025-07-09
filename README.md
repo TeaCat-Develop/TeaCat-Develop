@@ -75,9 +75,9 @@ Here are some ideas to get you started:
   
   ## 🤔 Github Stats
  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Teat-Develop)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaCat-Develop)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaT-Develop)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaCaT-Develop)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
