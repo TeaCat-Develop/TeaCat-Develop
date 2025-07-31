@@ -34,23 +34,23 @@ Here are some ideas to get you started:
     <br/>
     🔭 I'm studying Back-end from South Korea. So, taking a break from work these days. <br/> 
     🌱 I’m currently participating in bootcamp.   <br/>
-    📫 How to reach me: TeaCat0416@gmail.com   <br/>
+    💌 How to reach me: TeaCat0416@gmail.com   <br/>
     🫖 I love teatime, book and game.   <br/>
     😺 So I named my cat 'HongCha'. -means blacktea in Korean-
   <br/>
   
   ## ⚒️ Tech Stack
   ### Language
-  <!--언어
-  <!--Python
+  <!--언어-->
+  <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--JavaScript
+  <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5
+  <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS
+  <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  -->
+  
   <br/>
   
   ### Framework
@@ -67,9 +67,9 @@ Here are some ideas to get you started:
   <!--그 외
   <!--Amazon AWS 오류 (링크삭제된듯함)
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--MySQL
+  <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  -->
+  
   
   <br/>
   
