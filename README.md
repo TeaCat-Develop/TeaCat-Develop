@@ -1,106 +1,125 @@
-<!--### Header ###-->
+###
+<h6 align="center">Graphic</h6>
 <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=250&section=header&text=(●'◡'●)-nl-Good%20to%20see%20U&fontSize=70" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-<!--### Body ###-->
-  <br/>
-  <p align="center">
-    <a href="https://github.com/TeaT-Develop/TeaT-Develop">
-      <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&pause=500&color=FFA8A8&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=70&lines=Hello!+I'm+TeaCat.;I+want+to+be+a+Full-stack+Engineer+who+is+thinking+about+the+user's+position." alt="Typing SVG" />
-    </a>
-  </p>
+###
+<h6 align="center">Frontend</h6>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+</div>
+
+###
+<h6 align="center">Backend</h6>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
+###
+<h6 align="center">Deployment / Middleware</h6>
+<div align="center">
+  <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
+
+---
+
+
+###
+<h6 align="center">Skills / Tools<br>I want to learn more about</h6>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="40" alt="unity logo"  />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=black&style=for-the-badge" height="40" alt="selenium logo"  />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="redis logo"  />
+</div>
 
 <div align="center">
-            <!-- 로고명 / 컬러코드 참고 => https://simpleicons.org -->
-            <!-- <img src="https://img.shields.io/badge/표기할 이름-배경컬러코드?style=flat-square&logo=로고명&logoColor=로고텍스트컬러"/> -->
-<br/>
-        <!--OS-->
-            <!-- 1 mac / 2 windows --> 
-            <img src="https://img.shields.io/badge/Mac os-000000?style=flat-square&logo=apple&logoColor=white"/>
-            <!-- <img src="https://img.shields.io/badge/Windows-80B3FF?style=flat-square&logo=Windows&logoColor=white"/> -->
-<br/> 
-        <!--git-->
-            <!-- 1 git / 2 github --> 
-            <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-            <img src="https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=github&logoColor=white"/>
-<br/>
-        <!--IDE-->
-            <!-- 1 pycharm / 2 vscode --> 
-            <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<br/>
-        <!--백엔드 언어-->
-            <!-- 1 python --> 
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-        <!--파이썬 웹 프레임워크-->
-            <!-- 1 flask / 2 fastapi / 3 django --> 
-            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<br/>
-        <!--데이터베이스-->
-            <!-- 1 msql / 2 psql --> 
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<br/>
-        <!--프론트 언어-->
-            <!-- 1 html5 / 2 css / 3 js -->
-            <img src="https://img.shields.io/badge/HTML5-e64d26?style=flat-square&logo=HTML5&logoColor=white"/>
-            <img src="https://img.shields.io/badge/CSS3-254cdd?style=flat-square&logo=CSS&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<br/>
-        <!--Cloud & OS-->
-            <!-- 1 linux / 2 aws / 3 gcp--> 
-            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Amazon AWS-f69500?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
-<br/>
-        <!--Deployment / Middleware-->
-            <!-- 1 postman / 2 gunicorn / 3 -nginx / 4 .env / 5 poetry / 6 uv -->
-            <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Gunicorn-99848?style=flat-square&logo=gunicorn&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-            <img src="https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=.ENV&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white"/>
-            <img src="https://img.shields.io/badge/UV-DE5FE9F?style=flat-square&logo=uv&logoColor=white"/>
-<br/>
-<br/>
-        <!--연락처-->
-            <!-- 1 gmail / 2 discord / 3 notion / 4 velog--> 
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-            <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-<br/>
-        <!--그래픽-->
-            <!-- 1 adobe / 2 illustrator / 3 photoshop / 4 aftereffects / 5 premierepro --> 
-            <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?&style=flat-square&logo=adobe&logoColor=white" />
-            <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=black" />
-            <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-            <img src="https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?&style=flat-square&logo=adobe%20after%20effects&logoColor=black" />
-            <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?&style=flat-square&logo=adobe%20premiere%20pro&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="40" alt="canva logo"  />
 </div>
-<br/>
-
-
-
-<!--
-<div align="center">
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="165" src="https://github-readme-stats.vercel.app/api?username=TeaCat-Develop&show_icons=true&layout=compact&theme=tokyonight" />
-          </a>
-        <br>
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaCat-Develop&layout=compact&theme=tokyonight" />
-          </a>
-</div>
--->
 
 <div align="center">
-  
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaCat-Develop&show_icons=true&hide_title=true&hide_border=false&count_private=true&card_width=200&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaCat-Develop&height=165&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="40" alt="jira logo"  />
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="40" alt="slack logo"  />
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="40" alt="trello logo"  />
+  <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge" height="40" alt="sentry logo"  />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="40" alt="kubernetes logo"  />
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=white&style=for-the-badge" height="40" alt="sourcetree logo"  />
 </div>
+
+---
+
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TeaCat-Develop&locale=en&mode=weekly&theme=vue&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+<div align="center">
+  <a href="https://open.spotify.com/user/317x7qsf22kusbidllakoljxt724">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317x7qsf22kusbidllakoljxt724&count=5&unique=false&theme=bright" alt="Spotify recently played"  />
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TeaCat-Develop&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TeaCat-Develop&locale=en&hide_title=true&layout=default%20&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeaCat-Develop/TeaCat-Develop/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeaCat-Develop/TeaCat-Develop/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TeaCat-Develop/TeaCat-Develop/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
