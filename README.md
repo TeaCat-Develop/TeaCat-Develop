@@ -1,4 +1,3 @@
-
 ###
 <h6 align="center">Graphic</h6>
 <div align="center">
@@ -97,10 +96,13 @@
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=white&style=for-the-badge" height="40" alt="sourcetree logo"  />
 </div>
 
+---
 
-
-
-### 이 뒤로 원본
+<div align="center">
+  <a href="https://open.spotify.com/user/317x7qsf22kusbidllakoljxt724">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317x7qsf22kusbidllakoljxt724&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 <picture>
